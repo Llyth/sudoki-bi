@@ -135,9 +135,7 @@ You are allowed to add other optional arguments; you must show them during the R
 |------------------|$
 ```
 
-```markdown
 Your solver only accept this specific format. If there is something incorrect it must print "**sudoki-bi: Invalid format.**" on the error output.
-```
 
 ```markdown
 Tips: You should start with the solver.
